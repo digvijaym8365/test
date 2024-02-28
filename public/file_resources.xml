@@ -47,22 +47,22 @@
 				<series_name>R632E Series</series_name>
 				<manual_link></manual_link>
 			</integral_two_stage_regulator>
-			<2psi_second_stage_regulator>
+			<two_psi_second_stage_regulator>
 				<series_name>R622E Series</series_name>
 				<manual_link></manual_link>
-			</2psi_second_stage_regulator>
-			<2psi_second_stage_regulator>
+			</two_psi_second_stage_regulator>
+			<two_psi_second_stage_regulator>
 				<series_name>R652E Series</series_name>
 				<manual_link></manual_link>
-			</2psi_second_stage_regulator>
-			<2psi_integral_two_stage_regulator>
+			</two_psi_second_stage_regulator>
+			<two_psi_integral_two_stage_regulator>
 				<series_name>R232E Series</series_name>
 				<manual_link></manual_link>
-			</2psi_integral_two_stage_regulator>
-			<2psi_integral_two_stage_regulator>
+			</two_psi_integral_two_stage_regulator>
+			<two_psi_integral_two_stage_regulator>
 				<series_name>R632E Series</series_name>
 				<manual_link></manual_link>
-			</2psi_integral_two_stage_regulator>
+			</two_psi_integral_two_stage_regulator>
 			<additional_resources_and_field_topics>
 				<series_name>Inspecting LP-Gas Regulators</series_name>
 				<manual_link>https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450142t012.pdf</manual_link>
@@ -166,31 +166,31 @@
 		</commercial_industrial_regulator>
 		<bulk_storage_and_truck_Equipment>
 			<name>internal_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/internal-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
 			<name>emergency_shutoff_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/emergency-shutoff-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
 			<name>relief_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/relief-valves?fetchFacets=true#facet:-700000000000000589384114971101151121111141169711610511111032389710911259328311611111497103101,-70000000000000056278576,-700000000000000562765837769,-7000000000000005747768071,-700000000000000574778725132406511010412110011411111711532651091091111101059741&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
 			<name>excess_flow_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/excess-flow-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
 			<name>globe_and_angle_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/globe-valves-bst?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
 			<name>back_check_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/back-check-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange</link>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 		<bulk_storage_and_truck_Equipment>
-			<name>transfer_&_bypass_valves</name>
-			<link>https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange:&</link>
+			<name>transfer_bypass_valves</name>
+			<link>https://shorturl.at/ATX59</link>
 		</bulk_storage_and_truck_Equipment>
 	</products>
 	<resources>
@@ -200,55 +200,55 @@
 		</videos>
 		<videos>
 			<video_name>LPG - Bulk Storage And Transportation Overview</video_name>
-			<video_link>https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview?autoStart=true&q=lpg</video_link>
+			<video_link>https://shorturl.at/iKSV4</video_link>
 		</videos>
 		<videos>
 			<video_name>Setpoint And Lockup Demonstration</video_name>
-			<video_link>https://www.youtube.com/watch?v=sMV0lvdZ6Ns&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt&index=3</video_link>
+			<video_link>https://shorturl.at/iKSV4</video_link>
 		</videos>
 		<videos>
 			<video_name>Type 1098 Function</video_name>
-			<video_link>https://www.youtube.com/watch?v=0WO1rg6VChY&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt</video_link>
+			<video_link>https://shorturl.at/iKSV4</video_link>
 		</videos>
 		<webinars>
 			<general>
 				<webinar_name>Fisher LPG Tools And Literature</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6318450061112/lpg---fisher-lpg-tools-and-literature?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</general>
 			<general>
 				<webinar_name>Basics Of Propane</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6327289886112/lpg---basics-of-propane?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</general>
 			<bulk_storage_and_transportation>
-				<webinar_name>BS&T Overview</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview?autoStart=true&q=lpg</video_link>
+				<webinar_name>BS T Overview</webinar_name>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</bulk_storage_and_transportation>
 			<bulk_storage_and_transportation>
 				<webinar_name>Internal Valves : Session I</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6238559378001/lpg---internal-valves-:-session-i-product-overview-and-applications?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</bulk_storage_and_transportation>
 			<bulk_storage_and_transportation>
 				<webinar_name>Internal Valves : Session II</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6241259995001/lpg---internal-valves-:-session-ii-product-demonstration-and-take-apart?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</bulk_storage_and_transportation>
 			<bulk_storage_and_transportation>
 				<webinar_name>Emergency Shutoff Valves</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6212292612001/lpg---emergency-shut-off-valves?autoStart=true&page=1&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</bulk_storage_and_transportation>
 			<bulk_storage_and_transportation>
 				<webinar_name>Safety Relief Valves</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6316052918112/lpg---tank-pressure-relief-valves?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</bulk_storage_and_transportation>
 			<pressure_reducing_regulators>
 				<webinar_name>Regulatior_sizing_and_selection</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6203852325001/lpg---regulator-sizing-and-selection?autoStart=true&page=1&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</pressure_reducing_regulators>
 			<pressure_reducing_regulators>
 				<webinar_name>Pilot_Operated_Regulators</webinar_name>
-				<video_link>https://videos.emerson.com/detail/video/6313305173112/lpg---pilot-operated-regulators?autoStart=true&q=lpg</video_link>
+				<video_link>https://shorturl.at/iKSV4</video_link>
 			</pressure_reducing_regulators>
 		</webinars>
-		<3d_cad_website>https://cad.emersonregulators.com/</3d_cad_website>
+		<three_d_cad_website>https://cad.emersonregulators.com/</three_d_cad_website>
 		<application_map>
 			<name>Bulk Storage</name>
 			<link>https://www.emerson.com/documents/automation/product-brochure-bulk-storage-application-map-24x34-fisher-en-en-6096036.pdf</link>
@@ -266,12 +266,12 @@
 			<link>https://www.emerson.com/documents/automation/product-brochure-transport-application-map-fisher-en-en-6115256.pdf</link>
 		</application_map>
 		<animation>
-			<name>C477 & C471 Internal Valve</name>
-			<link>https://www3.emersonprocess.com/Regulators/Animation/C477_Product%20Animation/Type_C477_Product_Animation.html?_gl=1*1hyrc3b*_ga*MTc4ODEwMTUyOC4xNjkyMTI3Njgy*_ga_SLC7NHXH7Q*MTY5NzI0NTkzNy4yNS4wLjE2OTcyNDU5MzcuMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzI0NTkzOS4zNS4wLjE2OTcyNDU5MzkuMC4wLjA.</link>
+			<name>C477 C471 Internal Valve</name>
+			<link>https://shorturl.at/iKSV4</link>
 		</animation>
 		<animation>
 			<name>63EGLP Relief Valves</name>
-			<link>https://www3.emersonprocess.com/Regulators/Animation/63EGLP/63EGLP%20Product%20Animation.html?_gl=1*2zf7za*_ga*MTc4ODEwMTUyOC4xNjkyMTI3Njgy*_ga_SLC7NHXH7Q*MTY5NzI0NTkzNy4yNS4xLjE2OTcyNDYwMzguMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzI0NTkzOS4zNS4xLjE2OTcyNDYwNDAuMC4wLjA.</link>
+			<link>https://shorturl.at/iKSV4</link>
 		</animation>
 		<animation>
 			<name>1098-EGR Pilot-Op Regulator</name>
