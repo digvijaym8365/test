@@ -1,6 +1,8 @@
 {
-    "products": {
-        "product_catalaog": "https://www.emerson.com/documents/automation/lp-31-lp-gas-catalog-en-7621122.pdf",
+"version":"1.0",
+"last_updated":"14-03-2024",    
+"products": {
+        "product_catalog": "https://www.emerson.com/documents/automation/lp-31-lp-gas-catalog-en-7621122.pdf",
         "residential_regulator": {
             "compact_manual": "https://www.emerson.com/documents/automation/manuals-r122h-r222h-r222-r232a-r232e-series-instruction-manual-fisher-en-en-6115246.pdf",
             "full_size_manual": "https://www.emerson.com/documents/automation/manuals-r600-hsrl-series-lp-gas-regulators-instruction-manual-fisher-en-en-6109294.pdf",
@@ -183,33 +185,36 @@
         [
             {
                 "name": "internal_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/internal-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/internal-valves"
             },
             {
                 "name": "emergency_shutoff_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/emergency-shutoff-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/emergency-shutoff-valves"
             },
             {
                 "name": "relief_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/relief-valves?fetchFacets=true#facet:-700000000000000589384114971101151121111141169711610511111032389710911259328311611111497103101,-70000000000000056278576,-700000000000000562765837769,-7000000000000005747768071,-700000000000000574778725132406511010412110011411111711532651091091111101059741&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/relief-valves"
             },
             {
                 "name": "excess_flow_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/excess-flow-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/excess-flow-valves"
             },
             {
                 "name": "globe_and_angle_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/globe-valves-bst?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/globe-valves-bst"
             },
             {
                 "name": "back_check_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/back-check-valves?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/back-check-valves"
             }, {
                 "name": "transfer_&_bypass_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment?fetchFacets=true#facet:&partsFacet:&modelsFacet:&facetLimit:&searchTerm:&partsSearchTerm:&modelsSearchTerm:&productBeginIndex:0&partsBeginIndex:0&modelsBeginIndex:0&orderBy:&partsOrderBy:&modelsOrderBy:&pageView:grid&minPrice:&maxPrice:&pageSize:&facetRange:&"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment"
             }
         ]
         
+    },
+    "serviceman": {
+        "serviceman_handbook": "https://www.emerson.com/documents/automation/lp-10-handbook-en-us-8439918.pdf"
     },
     "resources": {
         "videos": [
@@ -219,7 +224,7 @@
             },
             {
                 "video_name": "LPG - Bulk Storage And Transportation Overview",
-                "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview?autoStart=true&q=lpg"
+                "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview"
             },
             {
                 "video_name": "Setpoint And Lockup Demonstration",
@@ -234,43 +239,43 @@
             "general": [
                 {
                     "webinar_name": "Fisher LPG Tools And Literature",
-                    "video_link": "https://videos.emerson.com/detail/video/6318450061112/lpg---fisher-lpg-tools-and-literature?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6318450061112/lpg---fisher-lpg-tools-and-literature"
                 },
                 {
                     "webinar_name": "Basics Of Propane",
-                    "video_link": "https://videos.emerson.com/detail/video/6327289886112/lpg---basics-of-propane?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6327289886112/lpg---basics-of-propane"
                 }
             ],
             "bulk_storage_and_transportation": [
                 {
                     "webinar_name": "BS&T Overview",
-                    "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview"
                 },
                 {
                     "webinar_name": "Internal Valves : Session I",
-                    "video_link": "https://videos.emerson.com/detail/video/6238559378001/lpg---internal-valves-:-session-i-product-overview-and-applications?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6238559378001/lpg---internal-valves-:-session-i-product-overview-and-applications"
                 },
                 {
                     "webinar_name": "Internal Valves : Session II",
-                    "video_link": "https://videos.emerson.com/detail/video/6241259995001/lpg---internal-valves-:-session-ii-product-demonstration-and-take-apart?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6241259995001/lpg---internal-valves-:-session-ii-product-demonstration-and-take-apart"
                 },
                 {
                     "webinar_name": "Emergency Shutoff Valves",
-                    "video_link": "https://videos.emerson.com/detail/video/6212292612001/lpg---emergency-shut-off-valves?autoStart=true&page=1&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6212292612001/lpg---emergency-shut-off-valves"
                 },
                 {
                     "webinar_name": "Safety Relief Valves",
-                    "video_link": "https://videos.emerson.com/detail/video/6316052918112/lpg---tank-pressure-relief-valves?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6316052918112/lpg---tank-pressure-relief-valves"
                 }
             ],
             "pressure_reducing_regulators": [
                 {
                     "webinar_name": "Regulatior_sizing_and_selection",
-                    "video_link": "https://videos.emerson.com/detail/video/6203852325001/lpg---regulator-sizing-and-selection?autoStart=true&page=1&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6203852325001/lpg---regulator-sizing-and-selection"
                 },
                 {
                     "webinar_name": "Pilot_Operated_Regulators",
-                    "video_link": "https://videos.emerson.com/detail/video/6313305173112/lpg---pilot-operated-regulators?autoStart=true&q=lpg"
+                    "video_link": "https://videos.emerson.com/detail/video/6313305173112/lpg---pilot-operated-regulators"
                 }
             ]
         },
@@ -296,11 +301,11 @@
         "animation": [
             {
                 "name": "C477 & C471 Internal Valve",
-                "link": "https://www3.emersonprocess.com/Regulators/Animation/C477_Product%20Animation/Type_C477_Product_Animation.html?_gl=1*1hyrc3b*_ga*MTc4ODEwMTUyOC4xNjkyMTI3Njgy*_ga_SLC7NHXH7Q*MTY5NzI0NTkzNy4yNS4wLjE2OTcyNDU5MzcuMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzI0NTkzOS4zNS4wLjE2OTcyNDU5MzkuMC4wLjA."
+                "link": "https://www3.emersonprocess.com/Regulators/Animation/C477_Product%20Animation/Type_C477_Product_Animation.html"
             },
             {
                 "name": "63EGLP Relief Valves",
-                "link": "https://www3.emersonprocess.com/Regulators/Animation/63EGLP/63EGLP%20Product%20Animation.html?_gl=1*2zf7za*_ga*MTc4ODEwMTUyOC4xNjkyMTI3Njgy*_ga_SLC7NHXH7Q*MTY5NzI0NTkzNy4yNS4xLjE2OTcyNDYwMzguMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzI0NTkzOS4zNS4xLjE2OTcyNDYwNDAuMC4wLjA."
+                "link": "https://www3.emersonprocess.com/Regulators/Animation/63EGLP/63EGLP%20Product%20Animation.html"
             },
             {
                 "name": "1098-EGR Pilot-Op Regulator",
@@ -312,20 +317,23 @@
             },
             {
                 "name": "627 Direct-Op Regulator",
-                "link": "https://www3.emersonprocess.com/regulators/Animation/627/627_Animation.html?_gl=1*cki0nb*_ga*MjY1NzIyMzc0LjE2OTIyODY2NDA.*_ga_SLC7NHXH7Q*MTY5NzQzNDUxNS4xMi4xLjE2OTc0MzQ1OTUuMC4wLjA"
+                "link": "https://www3.emersonprocess.com/regulators/Animation/627/627_Animation.html"
             },
             {
                 "name": "289H Direct-Op Relief",
-                "link": "https://www3.emersonprocess.com/regulators/Animation/289/289_Product_Animation.html?_gl=1*13s9f6x*_ga*MjY1NzIyMzc0LjE2OTIyODY2NDA.*_ga_SLC7NHXH7Q*MTY5NzQzNDUxNS4xMi4wLjE2OTc0MzQ1MTUuMC4wLjA"
+                "link": "https://www3.emersonprocess.com/regulators/Animation/289/289_Product_Animation.html"
             },
             {
                 "name": "CS200 Direct-Op Regulator",
-                "link": "https://www3.emersonprocess.com/Regulators/CS200%20Series%20Self-Operated%20Regulator%20Product%20Animation/CS200%20Series.html?_gl=1*1e3aqo5*_ga*MjY1NzIyMzc0LjE2OTIyODY2NDA.*_ga_SLC7NHXH7Q*MTY5NzQzNDUxNS4xMi4xLjE2OTc0MzQ3MDEuMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzQzNDUxNi4xOC4xLjE2OTc0MzQ3MDIuMC4wLjA"
+                "link": "https://www3.emersonprocess.com/Regulators/CS200%20Series%20Self-Operated%20Regulator%20Product%20Animation/CS200%20Series.html"
             },
             {
                 "name": "CS403 Monitor Combo Regulator",
-                "link": "https://www3.emersonprocess.com/Regulators/Type_CS403IT_with_True_Monitor_Product_Animation/Type%20CS403IT%20with%20TrueMonitor.html?_gl=1*fajdhw*_ga*MjY1NzIyMzc0LjE2OTIyODY2NDA.*_ga_SLC7NHXH7Q*MTY5NzQzNDUxNS4xMi4xLjE2OTc0MzQ3NDYuMC4wLjA.*_ga_1MGRRDNV9H*MTY5NzQzNDUxNi4xOC4xLjE2OTc0MzQ3NDcuMC4wLjA"
+                "link": "https://www3.emersonprocess.com/Regulators/Type_CS403IT_with_True_Monitor_Product_Animation/Type%20CS403IT%20with%20TrueMonitor.html"
             }
         ]
+    },
+    "privacy": {
+        "privacy_policy": "https://www.emerson.com/en-us/privacy-notice"
     }
 }
