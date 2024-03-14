@@ -3,95 +3,117 @@
 "last_updated":"14-03-2024",    
 "products": {
         "product_catalog": "https://www.emerson.com/documents/automation/lp-31-lp-gas-catalog-en-7621122.pdf",
+	"product_catalog_isUpdated":"true",
         "residential_regulator": {
             "compact_manual": "https://www.emerson.com/documents/automation/manuals-r122h-r222h-r222-r232a-r232e-series-instruction-manual-fisher-en-en-6115246.pdf",
+	    "compact_manual_isUpdated":"true",
             "full_size_manual": "https://www.emerson.com/documents/automation/manuals-r600-hsrl-series-lp-gas-regulators-instruction-manual-fisher-en-en-6109294.pdf",
+	    "full_size_manual_isUpdated":"true",
             "first_stage_regulator": [
                 {
                     "series_name": "R122H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R222H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R622H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 }
             ],
             "second_stage_regulator": [
                 {
                     "series_name": "R222H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R622H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R642H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R652H Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "Type HSRL Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 }
             ],
             "integral_two_stage_regulator": [
                 {
                     "series_name": "R232A Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R632E Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 }
             ],
             "2psi_second_stage_regulator": [
                 {
                     "series_name": "R622E Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R652E Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 }
             ],
             "2psi_integral_two_stage_regulator": [
                 {
                     "series_name": "R232E Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 },
                 {
                     "series_name": "R632E Series",
-                    "manual_link": ""
+                    "manual_link": "",
+		    "isUpdated":"false"
                 }
             ],
             "additional_resources_and_field_topics": [
                 {
                     "series_name": "Inspecting LP-Gas Regulators",
-                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450142t012.pdf"
+                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450142t012.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Give attention To Your Regulator",
-                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450144t012.pdf"
+                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450144t012.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Drip Lips Can Prevent Freeze Ups",
-                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450145t012.pdf"
+                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450145t012.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Facts On Freezing Regulators",
-                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450146t012.pdf"
+                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/bulletins/d450146t012.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Flooded Regulators - White Paper",
-                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/reference/d450169t012.pdf"
+                    "manual_link": "https://www.documentation.emersonprocess.com/intradoc-cgi/groups/public/documents/reference/d450169t012.pdf",
+		    "isUpdated":"true"
                 }
             ]
         },
@@ -99,85 +121,101 @@
             "high_pressure_regulator": [
                 {
                     "series_name": "67C Series",
-                    "manual_link": "https://www.emerson.com/documents/automation/manuals-64-67c-series-regulators-instruction-manual-fisher-en-en-6109306.pdf"
+                    "manual_link": "https://www.emerson.com/documents/automation/manuals-64-67c-series-regulators-instruction-manual-fisher-en-en-6109306.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "64Series",
-                    "manual_link": "https://www.emerson.com/documents/automation/manuals-64-67c-series-regulators-instruction-manual-fisher-en-en-6109306.pdf"
+                    "manual_link": "https://www.emerson.com/documents/automation/manuals-64-67c-series-regulators-instruction-manual-fisher-en-en-6109306.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "627 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-627-series-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106180.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-627-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106178.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-627-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106178.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "630 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-fisher-630-instruction-manual-fisher-en-en-8486828.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-630-regulator-bulletin-fisher-en-en-6108472.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-630-regulator-bulletin-fisher-en-en-6108472.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "99 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-99-pressure-reducing-regulator-instruction-manual-fisher-en-en-6108442.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "1098-EGR Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-1098-egr-1098h-egr-pressure-reducing-regulators-instruction-manual-fisher-en-en-5969474.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1098-egr-1098h-egr-pressure-reducing-regulators-bulletin-fisher-en-en-5976840.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1098-egr-1098h-egr-pressure-reducing-regulators-bulletin-fisher-en-en-5976840.pdf",
+		    "isUpdated":"true"
                 }
             ],
             "low_pressure_regulator": [
                 {
                     "series_name": "CS200 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-cs200-series-commercial-industrial-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106140.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs200-series-commercial-industrial-pressure-reducing-regulators-fisher-en-en-6106120.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs200-series-commercial-industrial-pressure-reducing-regulators-fisher-en-en-6106120.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "CS400 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-cs400-series-commercial-industrial-pressure-reducing-regulators-instruction-manual-fisher-en-en-6106142.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs400-series-commercial-industrial-pressure-reducing-regulators-bulletin-fisher-en-en-6106138.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs400-series-commercial-industrial-pressure-reducing-regulators-bulletin-fisher-en-en-6106138.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "CS800 Series",
                     "manual_link": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-cs800-series-commercial-industrial-pressure-reducing-regulators-for-north-america-fisher-en-en-6106108.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Type 133H Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-133-series-direct-operated-regulators-instruction-manual-fisher-en-en-6106288.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Type 133L Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-133-series-direct-operated-regulators-instruction-manual-fisher-en-en-6106288.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-133-series-direct-operated-regulators-bulletin-fisher-en-en-6106290.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "299H Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-299h-series-pressure-reducing-regulators-fisher-en-en-6106242.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-299h-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106240.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-299h-series-pressure-reducing-regulators-bulletin-fisher-en-en-6106240.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "99-500P Series",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-99-pressure-reducing-regulator-instruction-manual-fisher-en-en-6108442.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-99-pressure-reducing-regulators-bulletin-fisher-en-en-6108440.pdf",
+		    "isUpdated":"true"
                 }
             ],
             "backpressure_regulators_relief_valves": [
                 {
                     "series_name": "Type MR98H",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-mr98-series-instruction-manual-fisher-en-en-5985988.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-mr98-series-backpressure-regulators-reliefand-differential-relief-valves-bulletin-fisher-en-en-5985984.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-mr98-series-backpressure-regulators-reliefand-differential-relief-valves-bulletin-fisher-en-en-5985984.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Type 289H",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-289-series-relief-valves-instruction-manual-fisher-en-en-6106264.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-289-series-spring-loaded-relief-valves-bulletin-fisher-en-en-6106262.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-289-series-spring-loaded-relief-valves-bulletin-fisher-en-en-6106262.pdf",
+		    "isUpdated":"true"
                 },
                 {
                     "series_name": "Type 1805",
                     "manual_link": "https://www.emerson.com/documents/automation/manuals-1805-series-relief-valves-instruction-manual-fisher-en-en-6106278.pdf",
-                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1805-series-relief-valves-bulletin-fisher-en-en-6106282.pdf"
+                    "bulletin_link": "https://www.emerson.com/documents/automation/data-sheets-1805-series-relief-valves-bulletin-fisher-en-en-6106282.pdf",
+		    "isUpdated":"true"
                 }
             ]
         },
@@ -185,97 +223,118 @@
         [
             {
                 "name": "internal_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/internal-valves"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/internal-valves",
+		"isUpdated":"true"
             },
             {
                 "name": "emergency_shutoff_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/emergency-shutoff-valves"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/emergency-shutoff-valves",
+		    "isUpdated":"true"
             },
             {
                 "name": "relief_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/relief-valves"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/relief-valves",
+		    "isUpdated":"true"
             },
             {
                 "name": "excess_flow_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/excess-flow-valves"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/excess-flow-valves",
+		    "isUpdated":"true"
             },
             {
                 "name": "globe_and_angle_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/globe-valves-bst"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/globe-valves-bst",
+		    "isUpdated":"true"
             },
             {
                 "name": "back_check_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/back-check-valves"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment/back-check-valves",
+		    "isUpdated":"true"
             }, {
                 "name": "transfer_&_bypass_valves",
-                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment"
+                "link": "https://www.emerson.com/en-us/catalog/bulk-storage-transport-equipment",
+		    "isUpdated":"true"
             }
         ]
         
     },
     "serviceman": {
-        "serviceman_handbook": "https://www.emerson.com/documents/automation/lp-10-handbook-en-us-8439918.pdf"
+        "serviceman_handbook": "https://www.emerson.com/documents/automation/lp-10-handbook-en-us-8439918.pdf",
+		    "isUpdated":"true"
     },
     "resources": {
         "videos": [
             {
                 "video_name": "Emerson Fisher / Flow Lab",
-                "video_link": "https://www.youtube.com/watch?v=Mfj1fEFLajU"
+                "video_link": "https://www.youtube.com/watch?v=Mfj1fEFLajU",
+		    "isUpdated":"true"
             },
             {
                 "video_name": "LPG - Bulk Storage And Transportation Overview",
-                "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview"
+                "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview",
+		    "isUpdated":"true"
             },
             {
                 "video_name": "Setpoint And Lockup Demonstration",
-                "video_link": "https://www.youtube.com/watch?v=sMV0lvdZ6Ns&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt&index=3"
+                "video_link": "https://www.youtube.com/watch?v=sMV0lvdZ6Ns&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt&index=3",
+		    "isUpdated":"true"
             },
             {
                 "video_name": "Type 1098 Function",
-                "video_link": "https://www.youtube.com/watch?v=0WO1rg6VChY&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt"
+                "video_link": "https://www.youtube.com/watch?v=0WO1rg6VChY&list=PLAa7u8QvCY7tF5SR_pZ_NkH5Pn10ASxTt",
+		    "isUpdated":"true"
             }
         ],
         "webinars": {
             "general": [
                 {
                     "webinar_name": "Fisher LPG Tools And Literature",
-                    "video_link": "https://videos.emerson.com/detail/video/6318450061112/lpg---fisher-lpg-tools-and-literature"
+                    "video_link": "https://videos.emerson.com/detail/video/6318450061112/lpg---fisher-lpg-tools-and-literature",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Basics Of Propane",
-                    "video_link": "https://videos.emerson.com/detail/video/6327289886112/lpg---basics-of-propane"
+                    "video_link": "https://videos.emerson.com/detail/video/6327289886112/lpg---basics-of-propane",
+		    "isUpdated":"true"
                 }
             ],
             "bulk_storage_and_transportation": [
                 {
                     "webinar_name": "BS&T Overview",
-                    "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview"
+                    "video_link": "https://videos.emerson.com/detail/video/6322626716112/lpg---bulk-storage-and-transportation-overview",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Internal Valves : Session I",
-                    "video_link": "https://videos.emerson.com/detail/video/6238559378001/lpg---internal-valves-:-session-i-product-overview-and-applications"
+                    "video_link": "https://videos.emerson.com/detail/video/6238559378001/lpg---internal-valves-:-session-i-product-overview-and-applications",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Internal Valves : Session II",
-                    "video_link": "https://videos.emerson.com/detail/video/6241259995001/lpg---internal-valves-:-session-ii-product-demonstration-and-take-apart"
+                    "video_link": "https://videos.emerson.com/detail/video/6241259995001/lpg---internal-valves-:-session-ii-product-demonstration-and-take-apart",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Emergency Shutoff Valves",
-                    "video_link": "https://videos.emerson.com/detail/video/6212292612001/lpg---emergency-shut-off-valves"
+                    "video_link": "https://videos.emerson.com/detail/video/6212292612001/lpg---emergency-shut-off-valves",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Safety Relief Valves",
-                    "video_link": "https://videos.emerson.com/detail/video/6316052918112/lpg---tank-pressure-relief-valves"
+                    "video_link": "https://videos.emerson.com/detail/video/6316052918112/lpg---tank-pressure-relief-valves",
+		    "isUpdated":"true"
                 }
             ],
             "pressure_reducing_regulators": [
                 {
                     "webinar_name": "Regulatior_sizing_and_selection",
-                    "video_link": "https://videos.emerson.com/detail/video/6203852325001/lpg---regulator-sizing-and-selection"
+                    "video_link": "https://videos.emerson.com/detail/video/6203852325001/lpg---regulator-sizing-and-selection",
+		    "isUpdated":"true"
                 },
                 {
                     "webinar_name": "Pilot_Operated_Regulators",
-                    "video_link": "https://videos.emerson.com/detail/video/6313305173112/lpg---pilot-operated-regulators"
+                    "video_link": "https://videos.emerson.com/detail/video/6313305173112/lpg---pilot-operated-regulators",
+		    "isUpdated":"true"
                 }
             ]
         },
@@ -283,57 +342,70 @@
         "application_map": [
             {
                 "name": "Bulk Storage",
-                "link": "https://www.emerson.com/documents/automation/product-brochure-bulk-storage-application-map-24x34-fisher-en-en-6096036.pdf"
+                "link": "https://www.emerson.com/documents/automation/product-brochure-bulk-storage-application-map-24x34-fisher-en-en-6096036.pdf",
+		    "isUpdated":"true"
             },
             {
                 "name": "Large Bulk Plant With Rail Terminal",
-                "link": "https://www.emerson.com/documents/automation/product-brochure-valves-relief-valves-application-map-34x24-fisher-en-en-6116786.pdf"
+                "link": "https://www.emerson.com/documents/automation/product-brochure-valves-relief-valves-application-map-34x24-fisher-en-en-6116786.pdf",
+		    "isUpdated":"true"
             },
             {
                 "name": "Bobtail",
-                "link": "https://www.emerson.com/documents/automation/product-brochure-bobtail-application-map-24x34-fisher-en-en-6096038.pdf"
+                "link": "https://www.emerson.com/documents/automation/product-brochure-bobtail-application-map-24x34-fisher-en-en-6096038.pdf",
+		    "isUpdated":"true"
             },
             {
                 "name": "Transport",
-                "link": "https://www.emerson.com/documents/automation/product-brochure-transport-application-map-fisher-en-en-6115256.pdf"
+                "link": "https://www.emerson.com/documents/automation/product-brochure-transport-application-map-fisher-en-en-6115256.pdf",
+		    "isUpdated":"true"
             }
         ],
         "animation": [
             {
                 "name": "C477 & C471 Internal Valve",
-                "link": "https://www3.emersonprocess.com/Regulators/Animation/C477_Product%20Animation/Type_C477_Product_Animation.html"
+                "link": "https://www3.emersonprocess.com/Regulators/Animation/C477_Product%20Animation/Type_C477_Product_Animation.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "63EGLP Relief Valves",
-                "link": "https://www3.emersonprocess.com/Regulators/Animation/63EGLP/63EGLP%20Product%20Animation.html"
+                "link": "https://www3.emersonprocess.com/Regulators/Animation/63EGLP/63EGLP%20Product%20Animation.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "1098-EGR Pilot-Op Regulator",
-                "link": "https://www3.emersonprocess.com/Regulators/Animation/1098-EGR/1098EGR%20Product%20Animation.html"
+                "link": "https://www3.emersonprocess.com/Regulators/Animation/1098-EGR/1098EGR%20Product%20Animation.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "299H Pilot-Op Regulator",
-                "link": "https://www.emerson.com/en-us/catalog/fisher-299h"
+                "link": "https://www.emerson.com/en-us/catalog/fisher-299h",
+		    "isUpdated":"true"
             },
             {
                 "name": "627 Direct-Op Regulator",
-                "link": "https://www3.emersonprocess.com/regulators/Animation/627/627_Animation.html"
+                "link": "https://www3.emersonprocess.com/regulators/Animation/627/627_Animation.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "289H Direct-Op Relief",
-                "link": "https://www3.emersonprocess.com/regulators/Animation/289/289_Product_Animation.html"
+                "link": "https://www3.emersonprocess.com/regulators/Animation/289/289_Product_Animation.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "CS200 Direct-Op Regulator",
-                "link": "https://www3.emersonprocess.com/Regulators/CS200%20Series%20Self-Operated%20Regulator%20Product%20Animation/CS200%20Series.html"
+                "link": "https://www3.emersonprocess.com/Regulators/CS200%20Series%20Self-Operated%20Regulator%20Product%20Animation/CS200%20Series.html",
+		    "isUpdated":"true"
             },
             {
                 "name": "CS403 Monitor Combo Regulator",
-                "link": "https://www3.emersonprocess.com/Regulators/Type_CS403IT_with_True_Monitor_Product_Animation/Type%20CS403IT%20with%20TrueMonitor.html"
+                "link": "https://www3.emersonprocess.com/Regulators/Type_CS403IT_with_True_Monitor_Product_Animation/Type%20CS403IT%20with%20TrueMonitor.html",
+		    "isUpdated":"true"
             }
         ]
     },
     "privacy": {
-        "privacy_policy": "https://www.emerson.com/en-us/privacy-notice"
+        "privacy_policy": "https://www.emerson.com/en-us/privacy-notice",
+		    "isUpdated":"true"
     }
 }
